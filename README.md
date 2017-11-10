@@ -13,3 +13,5 @@ https://together-9561e.firebaseapp.com/
 
 https://together-9561e.firebaseapp.com/make
 위의 링크로 이동하여 가계부를 만들 수 있습니다.
+
+로그인 하고 가계부 만들기를 완료하면 디비에 가계부와 유저데이터가 저장됩니다.
